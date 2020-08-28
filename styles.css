@@ -1,0 +1,23 @@
+/* 8:11:50
+ Float */
+
+ .banner{
+     border: 5px solid red;
+     padding: 10px;
+     overflow: hidden;
+ }
+
+ .one{
+     float: right;
+     margin-left:50px;
+     
+ }
+
+ .two{
+     float: left;
+     height:30px;
+}
+
+ p{
+     clear:both;
+ }
